@@ -1,0 +1,21 @@
+{
+    "name": "gatling-token-sale",
+    "version": "1.0.0",
+    "description": "Gatling Token Sale ICO",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "Ishtiaq Mahmood",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    },
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "truffle-hdwallet-provider": "^1.0.17"
+    }
+}
